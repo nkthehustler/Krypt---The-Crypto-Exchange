@@ -1,12 +1,21 @@
-# Krypt---The-Crypto-Exchange
-Krypt - The Crypto Exchange is latest Web 3.0 technology based ethereum exchange with Security, Reliability uses Blockchain technology.
-![Screenshot (52)](https://user-images.githubusercontent.com/66864065/179895636-6cc7721b-6acf-4a09-a6a6-e3cce1bcfd52.png)
+# Krypt - Web 3.0 Blockchain Application
+![Krypt](https://i.ibb.co/DVF4tNW/image.png)
+
+## Introduction
+This is a code repository for the corresponding project
+
+# Tehc Stack-
+- React
+- Solidity
+- Metamask
+- Hardhad
+- Giphy API
+
+E-mail - avinashkumaralpha@gmail.com
+feel free to fork and rebuild the project. ✌
+
+# Happy Hacking by nkthehustler
 
 
-<h1> About this Project <h1/>
+ 
 
-Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
-
-Project created in collaboration with Enyel Sequeira: Portfolio - https://www.enyelsequeira.com E-mail - enyelsequeira1994@gmail.com Want me to cover the project you've created? Send me an e-mail 👌
-
-Launch your development career with project-based coaching - https://www.jsmastery.pro
