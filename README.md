@@ -11,7 +11,6 @@ This is a code repository for the corresponding project
 
 
 Deployed on: https://krypt-psi.vercel.app <br/>
-
 E-mail - avinashkumaralpha@gmail.com
 feel free to fork and rebuild the project. ✌
 
