@@ -8,8 +8,6 @@ This is a code repository for the corresponding project
 - React
 - Solidity
 - Metamask
-- Hardhad
-- Giphy API
 
 E-mail - avinashkumaralpha@gmail.com
 feel free to fork and rebuild the project. ✌
