@@ -9,7 +9,9 @@ This is a code repository for the corresponding project
 - Solidity
 - Metamask
 
-Deployed on: https://krypt-psi.vercel.app/ <br/>
+
+Deployed on: https://krypt-psi.vercel.app <br/>
+
 E-mail - avinashkumaralpha@gmail.com
 feel free to fork and rebuild the project. ✌
 
