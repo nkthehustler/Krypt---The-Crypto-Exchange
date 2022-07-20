@@ -1,10 +1,10 @@
 # Krypt - Web 3.0 Blockchain Application
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
-## Introduction
+# Introduction
 This is a code repository for the corresponding project
 
-# Tehc Stack-
+## Tech Stack-
 - React
 - Solidity
 - Metamask
@@ -14,7 +14,7 @@ This is a code repository for the corresponding project
 E-mail - avinashkumaralpha@gmail.com
 feel free to fork and rebuild the project. ✌
 
-# Happy Hacking by nkthehustler
+## Happy Hacking by nkthehustler. 💻 + 🎶 = 💖
 
 
  
